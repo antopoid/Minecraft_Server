@@ -1,7 +1,25 @@
 [
   {
+    "uuid": "489bb5ac-943b-3e3a-8e57-a41e36db287d",
+    "name": "Antopoid",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "76649b7c-9721-4a32-808e-1c421e4080d0",
     "name": "TheStreetBRO",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6899c77f-9b47-45b5-8b7e-fedbd9a8bcf8",
+    "name": "Antopoid",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "832390f9-d46a-3c32-90dd-5f258fa9ba88",
+    "name": "PetitPhalus",
     "level": 4,
     "bypassesPlayerLimit": false
   },

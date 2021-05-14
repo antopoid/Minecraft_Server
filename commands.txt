@@ -1,1 +1,2 @@
 java -XX:SoftMaxHeapSize=1G -Xms1G -Xmx1G -jar server.jar nogui
+screen -S "minecraft" java -Xms1G -Xmx5G -jar server.jar nogui
